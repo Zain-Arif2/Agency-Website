@@ -4,8 +4,8 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './Pages/Home';
 import Testimonials from './Pages/Testimonials';
-import Services from './Pages/services'; 
-import FAQs from './Pages/Faqs';// if you have a Clients page
+import Services from './Pages/Services'; 
+import FAQs from './Pages/Faqs';
 import Product from './Pages/Product';
 
 function App() {
